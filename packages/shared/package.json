@@ -1,0 +1,6 @@
+{
+  "name": "@bazel-learn/shared",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "index.d.ts"
+}
